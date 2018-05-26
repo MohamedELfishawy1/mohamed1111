@@ -1,0 +1,16 @@
+PODS:
+  - RangeSeekSlider (1.7.0)
+
+DEPENDENCIES:
+  - RangeSeekSlider
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - RangeSeekSlider
+
+SPEC CHECKSUMS:
+  RangeSeekSlider: 0386c5a9aa5ebcb2fa5238e8a627280cf46c7c0a
+
+PODFILE CHECKSUM: ba69bea95b7ff29830d590bc36b37728477d5de0
+
+COCOAPODS: 1.5.0
